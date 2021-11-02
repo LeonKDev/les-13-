@@ -1,5 +1,5 @@
 # image
 
-[screenshot](les 13.png)
+[screenshot](screenshot1.png)
 
-[screenshot](les 13 2.png)
+[screenshot](screenshot2.png)
